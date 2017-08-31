@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_186a0c909c8215f6d857d3d6236c54fd9da85902\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-23.4.0_741bcc39cb53c304fe6eded71ff5aa1107872418\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.2_5fffcc37dfbacfcbbc364cd0a3c5420a6f23ff3d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.2_5644c1268cd9a13b645ab6a6eae180baa6687bac\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.2_a2b59ef0b329a958fa7fd8328d87aa094254bf10\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_75b2c93e2951b0000499ae98a13b0079e61f13bc\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.2_bbbce7210f016c002e5b7cf56ea6ab4e0f304c07\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.2_b40f65a0caf094fb0a6b6790e36598d154e67364\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.2_7eba3f9ddbc4969c5884fda05bbca65b32bdee10\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_f6f07d34db50357511ecc88682209dd491a28935\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.4.0_78d0de4d7bf5994428fafabbc85454137617d2ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.2_956b6f28c99b3460b2ce1e141b00a776bedc9dff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.2_b7760f68b9625fcda8fff41f6fcbb5ee7692a6e0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_423526b0b34e3c4f1251c18e07808b4694af5626\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0f58182e63f7ee24e35f89f785f685783972810a">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_acb416f82527fb4552460d0daae60beac1380dd7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_6b94713f047106ec4183d345c4290e60058c994d\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-23.4.0_98c549ee1d10099ef40905f41ee90a9e7927d654\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.2_3a772a3e5c4fe2318266504c4d969233f9d28f2c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.2_dfd4bc5fdb2b075eee3deaccaae8178b17db4d48\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.2_f862aaa490ccb6ab2aa803810d05c98eaa7b070c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.2_d175aefbfef9e60bc9f1e28480e4d7a4a440b052\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.2_c15df44142ff1de520187b9814ef879110237e28\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.2_a5f6e632a228e25ce5147e72e33b82386e034551\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.2_df74c495d1396b31088dc059de46fbb91793f2ba\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.2_bd79d025747982c6f8dba7d2ba0a8c436e715149\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.2_996621598abfb5ab2761e00fe04b45e5bebedff1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.2_9dba1324a6f4ec86e52bc3557cb8bd74243fd4e9\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\cardview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ecde39b460470e655de6e47c05573d2d5a8bfb">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-cardview-v7-23.4.0_479bace3f8fc995654c756e1c64aca5d1e525af0\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-23.4.0_6b9a54a82b23058e267168946cb248dd95b60fff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.2_76dcd0c624dc210f32a363af7c9ff59d2ff86323\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_6b888555d1f058d395a863e49a05db1ad1187acf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\libs\mail.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="428e267abff0d10802ccde86b915da2c20471160">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\2\mail_3cdd4f7caf259ad22f60fafc2f960a41aee6053e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\libs\activation.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d1257cbff6faa44c1f325ae0d9413522d4644383">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\2\activation_3c5c29c7f0fb182eaf83cca3f7364dd916a20d9b\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_6fafd2a27e6c4ea705b0291385ea6a59d003b306\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.2_366fdaceb5ace54f76a6dd99b2a5bcef18a74bb7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.2_3f4a2326d210b3b4759200895387f4e6fefcb85e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="80d78fa6a60de658fd770917943877e1fe2fdec0">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_f09ef735549b5df33373cc052859cae1b0a5367e\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.2_ee4828fcfe1cce698bd8e1afa0253081b20fe7c3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-23.4.0_43a5ff6138550ca21e225b3f0e6ef278265bc4f2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_9784a46995606d4ae1f3793fb394d814f4d2d09a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.2_a6b71ed1b044d62049f31f8826e7c0e552f68258\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.2_bdea1ca5203a2c48e616a9c6c8615aca35ce1689\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.2_3725fec54e5b63c5bc7fa581354fe1b288c98850\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.2_e0d7103c1cf0939b91f9f00c7b65ab146a884ff1\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.2_cab4e63a47b97ef85edf2dc9ccbf790be2fe4241\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.2_1910f5cd764bff6cbfbac10b1ef16d58c5d2ea06\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.2_704b0b3d67f296e0a5c47756acb0df23e99a1c3f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.2_de5f62fb6cf38486551b74d5be7e49d4b47deca8\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_c1698ac926f697c0aa8eb2ea83e793b82434d01c\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.2_9c63189382175832806a79aa57a6a94b18e1d1b3\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.2_6e89c9bd2e69d8309068b0bdb6df441e57a7e4b6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\multidex\1.0.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.1_3d71b02562e667490dd16cf00de347966c114aaf\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_3ceb05193e6f5c716b4635a0c209c578fca89f8f\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\libs\additionnal.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="bd9e8dc422bb8c8405359947fe9f4282b49f57f4">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\2\additionnal_0e93a0e3b0db0f005f2812b15e92670b84bb8a70\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.2_e79c41f9ef9ddbd4170a9a04072cf468abe49ed4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.2_f78b042e6fe5fc4bb53f6cbccb7322bae209d0ab\classes.dex" />
+    </item>
+    <item
+        jar="C:\Program Files\Android\Android Studio1\gradle\m2repository\com\google\code\gson\gson\2.2.4\gson-2.2.4.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a60a5e993c98c864010053cb901b7eab25306568">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.2.4_ea3566817aae63c8e87ab16e4d1ccfdc8d788289\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.2_f872e6ceb30a4f37f1e2ab61160f3a60c207aa95\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.2_7ba1a56369232329b6ae963ae2ececb21a7f23e5\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.2_2c7cc66d6f8e5d7ed24bc5861c9d5d79b43a2662\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\ABHISHEK JAIN\AndroidStudioProjects\temple app4.5\MyApplication2\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_722eeed134d2826c5d9d18b312d3c3bf2bdefce7\classes.dex" />
+    </item>
+
+</items>
